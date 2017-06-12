@@ -17,6 +17,8 @@
       <li><a href="http://vue-loader.vuejs.org/" target="_blank">vue-loader</a></li>
       <li><a href="https://github.com/vuejs/awesome-vue" target="_blank">awesome-vue</a></li>
       <li><a href="https://github.com/vuejs/awesome-vue" target="_blank">Inicio ENCODEST</a></li>
+      <li><a href="https://github.com/vuejs/awesome-vue" target="_blank">Inicio ATREUSFIT</a></li>
+      <li><a href="https://github.com/vuejs/awesome-vue" target="_blank">CURSOS DE TODO</a></li>
     </ul>
   </div>
 </template>
